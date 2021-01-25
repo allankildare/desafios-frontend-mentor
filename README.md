@@ -5,3 +5,4 @@ Este repositório reunirá os desafios que serão por mim feito dentro da plataf
 
 - 1° Dia - Four-card-feature
 ![](./four-card-feature/design/result.png)
+Para acessar o resultado deste desafio é só [clicar aqui](https://fourcardfeature-bay.vercel.app/).
